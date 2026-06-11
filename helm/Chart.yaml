@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-financial-statements
+description: "BIAN Service Domain: Financial Statements (Process pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - process
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Finance"
+  bian/asset-type: "Financial Statement"
+  bian/control-record: "Financial Statement Procedure"
